@@ -8,4 +8,4 @@ My goal here is to gain a high level understanding of how people use Bixi bikes,
 
 The data is collected and cleaned up of data downloaded from the open data portal at Bixi Montreal:  [https://www.bixi.com/en/open-data](https://www.bixi.com/en/open-data)
 
-![dashboard](pic/BIXI DashBoard.png)
+![dashboard](pic/DashBoard.png)
